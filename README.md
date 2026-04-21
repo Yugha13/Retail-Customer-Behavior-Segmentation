@@ -76,4 +76,3 @@ Real-world retail data is highly skewed (e.g., a few "whales" spend significantl
 ---
 > [!TIP]
 > To adjust the number of clusters, modify the `n_clusters` parameter in `main.py`.
-# Retail-Customer-Behavior-Segmentation
